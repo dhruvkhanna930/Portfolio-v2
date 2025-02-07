@@ -90,20 +90,21 @@ const WhatIDo = () => {
               <h3>DEVELOP</h3>
               <h4>Description</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
-                quia aliquid laboriosam ducimus sit molestiae.
+                Developing efficient software solutions, automation scripts, and
+                web applications. I craft them with my skills ..... and a little
+                bit of magic!
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">JavaScript</div>
+                <div className="what-tags">Python</div>
                 <div className="what-tags">TypeScript</div>
                 <div className="what-tags">Three.js</div>
                 <div className="what-tags">React</div>
                 <div className="what-tags">Css</div>
-                <div className="what-tags">Node.js</div>
-                <div className="what-tags">Next.js</div>
-                <div className="what-tags">Express.js</div>
-                <div className="what-tags">PHP</div>
+                <div className="what-tags">Django</div>
+                <div className="what-tags">AWS</div>
+                <div className="what-tags">Selenium</div>
+                <div className="what-tags">Docker</div>
                 <div className="what-tags">MySql</div>
               </div>
               <div className="what-arrow"></div>
@@ -128,22 +129,59 @@ const WhatIDo = () => {
             </div>
             <div className="what-corner"></div>
             <div className="what-content-in">
-              <h3>DESIGN</h3>
+              <h3>PRACTISE</h3>
               <h4>Description</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
-                quia aliquid laboriosam ducimus sit molestiae
+                Practicing problem-solving on various platforms to improve
+                algorithms, efficiency, and coding skills.
               </p>
-              <h5>Skillset & tools</h5>
+              <h5>Platforms</h5>
               <div className="what-content-flex">
-                <div className="what-tags">Blender</div>
-                <div className="what-tags">Zbrush</div>
-                <div className="what-tags">UI Design</div>
-                <div className="what-tags">Motion</div>
-                <div className="what-tags">Rigging</div>
-                <div className="what-tags">3D Animation</div>
-                <div className="what-tags">Character Design</div>
-                <div className="what-tags">Modelling</div>
+                <div className="what-tags">
+                  <a
+                    href="https://leetcode.com/u/dhruvkhanna930/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    LeetCode
+                  </a>
+                </div>
+                <div className="what-tags">
+                  <a
+                    href="https://www.codechef.com/users/khannadhruv"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    CodeChef
+                  </a>
+                </div>
+                <div className="what-tags">
+                  <a
+                    href=""
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    CodeForces
+                  </a>
+                </div>
+                <div className="what-tags">
+                  <a
+                    href="https://www.hackerrank.com/profile/dhruvkhanna930"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    HackerRank
+                  </a>
+                </div>
+                <div className="what-tags">
+                  <a
+                    href="https://www.geeksforgeeks.org/user/khannadhruv/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    GeeksforGeeks
+                  </a>
+                </div>
               </div>
               <div className="what-arrow"></div>
             </div>

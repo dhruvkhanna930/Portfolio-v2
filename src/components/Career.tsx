@@ -15,43 +15,37 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Freelancer</h4>
+                {/* <h5></h5> */}
               </div>
-              <h3>20XX</h3>
+              <h4>2024-NOW</h4>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+            Developed websites, provided custom automation scripts, and made Odoo-based solutions for clients. Worked with them to build applications and enhance digital efficiency across various domains.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Python Developer</h4>
+                <h5>New Stance</h5>
               </div>
-              <h3>20XX</h3>
+              <h4>2024</h4>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+            Developed an automated influencer analytics dashboard and built RESTful APIs using Django and PostgreSQL to process user data efficiently. Created automation scripts with Selenium to enhance workflow.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Software Developer</h4>
+                <h5>Finexos</h5>
               </div>
-              <h3>NOW</h3>
+              <h4>NOW</h4>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+            Led development of Finexos' platform using Django and React, enhancing user experience and accessibility. Designed responsive UI components. Managed an agile team of 4 to ensure timely delivery of assigned projects.
             </p>
           </div>
         </div>
