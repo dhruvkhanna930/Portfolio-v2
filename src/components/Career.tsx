@@ -48,6 +48,18 @@ const Career = () => {
             Led development of Finexos' platform using Django and React, enhancing user experience and accessibility. Designed responsive UI components. Managed an agile team of 4 to ensure timely delivery of assigned projects.
             </p>
           </div>
+          <div className="career-info-box">
+            <div className="career-info-in">
+              <div className="career-role">
+                <h4>Contributor</h4>
+                <h5>Tree of Wally - CSX</h5>
+              </div>
+              <h4>NOW</h4>
+            </div>
+            <p>
+            Developing and optimizing APIs in Golang for the CSX project in Tree of Wally. Implementing bidding APIs for improved functionality.
+            </p>
+          </div>
         </div>
       </div>
     </div>

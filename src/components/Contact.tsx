@@ -10,21 +10,21 @@ const Contact = () => {
           <div className="contact-box">
             <h4>Email</h4>
             <p>
-              <a href="mailto:example@mail.com" data-cursor="disable">
-                example@mail.com
+              <a href="mailto:dhruvkhanna930@mail.com" data-cursor="disable">
+                dhruvkhanna930@mail.com
               </a>
             </p>
             <h4>Phone</h4>
             <p>
-              <a href="tel:+919920782622" data-cursor="disable">
-                +91 99999 99999
+              <a href="tel:+917206252203" data-cursor="disable">
+                +91 72062 52203
               </a>
             </p>
           </div>
           <div className="contact-box">
             <h4>Social</h4>
             <a
-              href="https://github.com"
+              href="https://github.com/dhruvkhanna930/"
               target="_blank"
               data-cursor="disable"
               className="contact-social"
@@ -32,7 +32,7 @@ const Contact = () => {
               Github <MdArrowOutward />
             </a>
             <a
-              href="https://www.linkedin.com"
+              href="https://www.linkedin.com/in/dhruvkhanna930/"
               target="_blank"
               data-cursor="disable"
               className="contact-social"
@@ -40,15 +40,7 @@ const Contact = () => {
               Linkedin <MdArrowOutward />
             </a>
             <a
-              href="https://x.com"
-              target="_blank"
-              data-cursor="disable"
-              className="contact-social"
-            >
-              Twitter <MdArrowOutward />
-            </a>
-            <a
-              href="https://www.instagram.com"
+              href="https://www.instagram.com/dhruvkhanna930/"
               target="_blank"
               data-cursor="disable"
               className="contact-social"
@@ -58,10 +50,10 @@ const Contact = () => {
           </div>
           <div className="contact-box">
             <h2>
-              Designed and Developed <br /> by <span>Moncy Yohannan</span>
+              Made <br /> with ❤️ by <span>Dhruv</span>
             </h2>
             <h5>
-              <MdCopyright /> 2024
+              <MdCopyright /> 2025
             </h5>
           </div>
         </div>
